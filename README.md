@@ -8,7 +8,7 @@ A modern full-stack finance app with AI-powered receipt scanning, built for effo
 ![MongoDB](https://img.shields.io/badge/MongoDB-Latest-green)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5+-blue)
 
-![Demo Video](https://drive.google.com/drive/folders/10dIeshRGgCKueH5GGyuvNGcsfYgWeWRR?usp=sharing)
+[Demo Video](https://drive.google.com/drive/folders/10dIeshRGgCKueH5GGyuvNGcsfYgWeWRR?usp=sharing)
 
 ---
 
